@@ -3,7 +3,7 @@ A simple JavaScript program that takes n number of seconds as a input and return
 ```js 
 // Example
 
-console.log(seconds2time(seconds));
+console.log(seconds2time(2938762));
 
 34 days, 19 minutes and 22 seconds
 ```
